@@ -13,7 +13,14 @@ The design of the rocket must allow for a dual deployment and capture an image o
 There will be simultaneous development of both the rocket and the payload. There are currently weekly meetings to discuss cross implementation of projects to ensure smooth integration. Emphasis will be given to the camera acquisition system as that is what the team defines as most important.    
 
 # Systems involved  
-coming soon
+## On-Board Computer: 
+Raspberry pi zero 
+
+## Camera Systems 
+ESP-32 
+Arducam 
+
+
 
 # Our Solution  
 coming soon
