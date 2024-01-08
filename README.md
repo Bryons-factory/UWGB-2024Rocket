@@ -14,7 +14,7 @@ There will be simultaneous development of both the rocket and the payload. There
 
 # Systems involved  
 #### On-Board Computer: 
-Raspberry pi zero 
+Raspberry pi zero  
 Raspberry Pi 3 Model B+ 
 
 #### Camera Systems 
