@@ -17,7 +17,7 @@ There will be simultaneous development of both the rocket and the payload. There
 Raspberry pi zero 
 
 #### Camera Systems 
-ESP-32 
+ESP-32  
 Arducam 
 
 
