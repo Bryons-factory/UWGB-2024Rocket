@@ -22,6 +22,7 @@ There will be simultaneous development of both the rocket and the payload. There
 [ESP-32 microprocessor w/ 2-5MP sensor](https://docs.ai-thinker.com/en/esp32-cam) 
    
 [Arducam IMX 519 16MP sensor](https://docs.arducam.com/Nvidia-Jetson-Camera/Native-Camera/Quick-Start-Guide/#16mp-imx519-camera)
+		[libcamera for sensor](https://docs.arducam.com/Raspberry-Pi-Camera/Pivariety-Camera/Libcamera-User-Guide/)
 
 
 
