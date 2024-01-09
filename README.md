@@ -14,12 +14,12 @@ There will be simultaneous development of both the rocket and the payload. There
 
 # Systems involved  
 #### On-Board Computer: 
-Raspberry pi zero  
-Raspberry Pi 3 Model B+ 
+[Raspberry pi zero W](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#raspberry-pi-zero-w) 
+[Raspberry Pi 3 Model B+](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#raspberry-pi-3-model-b) 
 
 #### Camera Systems 
-ESP-32  
-Arducam 
+[ESP-32 microprocessor w/ 2-5MP sensor](https://docs.ai-thinker.com/en/esp32-cam)   
+[Arducam IMX 519 16MP sensor](https://docs.arducam.com/Nvidia-Jetson-Camera/Native-Camera/Quick-Start-Guide/#16mp-imx519-camera)
 
 
 
