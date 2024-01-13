@@ -184,8 +184,8 @@ void takeNewPhoto(String path) {
 
 
 // Replace with your network credentials connect to your hotspot from ESP32 and then access webserver via IP on browser
-const char* ssid = "rocketclub";
-const char* password = "rocketadmin";
+const char* ssid = "Your network SSID";
+const char* password = "Your network pw";
 
 // Set web server port number to 80
 WiFiServer server(80);
